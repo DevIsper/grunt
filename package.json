@@ -1,0 +1,13 @@
+{
+  "name": "grunt",
+  "version": "0.0.0",
+  "scripts": {
+    "grunt": "grunt"
+  },
+  "type": "commonjs",
+  "devDependencies": {
+    "grunt": "^1.5.3",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-uglify": "^5.0.1"
+  }
+}
